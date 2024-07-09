@@ -1,0 +1,354 @@
+name,position,adp
+Jonathan Taylor,RB1,1.0
+Christian McCaffrey,RB2,2.0
+Austin Ekeler,RB3,3.8
+Cooper Kupp,WR1,4.0
+Derrick Henry,RB4,5.3
+Justin Jefferson,WR2,5.5
+Dalvin Cook,RB5,7.5
+Najee Harris,RB6,8.0
+Ja'Marr Chase,WR3,8.3
+Joe Mixon,RB7,10.3
+Davante Adams,WR4,12.3
+Stefon Diggs,WR5,12.5
+Alvin Kamara,RB8,13.3
+Travis Kelce,TE1,15.0
+D'Andre Swift,RB9,15.5
+Deebo Samuel Sr.,WR6,17.0
+Aaron Jones,RB10,19.5
+CeeDee Lamb,WR7,19.5
+Tyreek Hill,WR8,19.8
+Nick Chubb,RB11,20.0
+Saquon Barkley,RB12,20.3
+Josh Allen,QB1,20.8
+Mark Andrews,TE2,21.8
+Leonard Fournette,RB13,22.0
+Javonte Williams,RB14,22.8
+Mike Evans,WR9,26.8
+Keenan Allen,WR10,28.3
+James Conner,RB15,29.3
+Patrick Mahomes II,QB2,29.8
+Ezekiel Elliott,RB16,30.3
+A.J. Brown,WR11,30.8
+Kyle Pitts,TE3,32.8
+Michael Pittman Jr.,WR12,33.5
+Tee Higgins,WR13,33.8
+Justin Herbert,QB3,34.5
+David Montgomery,RB17,36.5
+Cam Akers,RB18,39.8
+George Kittle,TE4,39.8
+Travis Etienne Jr.,RB19,40.5
+Terry McLaurin,WR14,41.0
+Lamar Jackson,QB4,43.5
+DJ Moore,WR15,43.8
+Diontae Johnson,WR16,43.8
+Darren Waller,TE5,44.8
+Mike Williams,WR17,46.0
+Jaylen Waddle,WR18,47.3
+DK Metcalf,WR19,48.3
+Josh Jacobs,RB20,49.5
+Elijah Mitchell,RB21,52.0
+J.K. Dobbins,RB22,52.0
+Breece Hall,RB23,52.3
+Kyler Murray,QB5,53.8
+Jalen Hurts,QB6,55.3
+Brandin Cooks,WR20,56.0
+Dalton Schultz,TE6,57.3
+Courtland Sutton,WR21,58.0
+Joe Burrow,QB7,60.3
+Hollywood Brown,WR22,61.5
+Chris Godwin,WR23,61.8
+Allen Robinson II,WR24,62.8
+Amon-Ra St. Brown,WR25,63.5
+Clyde Edwards-Helaire,RB24,64.0
+Antonio Gibson,RB25,64.8
+Jerry Jeudy,WR26,65.8
+T.J. Hockenson,TE7,65.8
+Gabe Davis,WR27,67.3
+AJ Dillon,RB26,67.8
+Amari Cooper,WR28,67.8
+Dallas Goedert,TE8,70.5
+Tom Brady,QB8,72.0
+Adam Thielen,WR29,73.3
+Darnell Mooney,WR30,73.5
+JuJu Smith-Schuster,WR31,74.3
+Russell Wilson,QB9,77.5
+Michael Thomas,WR32,80.0
+Aaron Rodgers,QB10,80.3
+Dak Prescott,QB11,82.0
+Devin Singletary,RB27,82.5
+Hunter Renfrow,WR33,83.3
+DeAndre Hopkins,WR34,83.3
+Dameon Pierce,RB28,83.5
+Damien Harris,RB29,83.8
+Miles Sanders,RB30,84.5
+Kareem Hunt,RB31,85.3
+Cordarrelle Patterson,RB32,85.8
+Tony Pollard,RB33,86.0
+Chase Edmonds,RB34,86.8
+Rashaad Penny,RB35,87.0
+Rashod Bateman,WR35,88.5
+Zach Ertz,TE9,88.8
+Dawson Knox,TE10,90.0
+Elijah Moore,WR36,90.0
+DeVonta Smith,WR37,90.3
+Buffalo Bills DST,DST1,92.0
+Matthew Stafford,QB12,92.0
+Tyler Lockett,WR38,96.5
+Brandon Aiyuk,WR39,98.0
+Drake London,WR40,98.5
+Rhamondre Stevenson,RB36,100.0
+Christian Kirk,WR41,100.3
+Trey Lance,QB13,101.5
+Robert Woods,WR42,103.0
+Allen Lazard,WR43,104.5
+Justin Tucker,K1,105.5
+Melvin Gordon III,RB37,107.5
+Pat Freiermuth,TE11,108.5
+Chris Olave,WR44,110.8
+Tampa Bay Buccaneers DST,DST2,112.3
+Derek Carr,QB14,113.3
+Kenneth Walker III,RB38,116.0
+Chase Claypool,WR45,116.3
+James Robinson,RB39,117.0
+Michael Carter,RB40,117.0
+San Francisco 49ers DST,DST3,118.8
+Kadarius Toney,WR46,119.0
+James Cook,RB41,120.0
+Cole Kmet,TE12,121.8
+Indianapolis Colts DST,DST4,123.5
+Kirk Cousins,QB15,125.3
+George Pickens,WR47,127.8
+Los Angeles Rams DST,DST5,129.0
+Harrison Butker,K2,129.0
+Evan McPherson,K3,129.0
+Mike Gesicki,TE13,129.0
+Hunter Henry,TE14,130.3
+Treylon Burks,WR48,131.8
+Daniel Carlson,K4,132.3
+Darrell Henderson Jr.,RB42,132.5
+Tyler Bass,K5,132.8
+Alexander Mattison,RB43,135.0
+New Orleans Saints DST,DST6,135.3
+Matt Gay,K6,135.8
+Tyler Boyd,WR49,137.8
+Garrett Wilson,WR50,138.0
+Dallas Cowboys DST,DST7,138.8
+Michael Gallup,WR51,139.3
+Nyheim Hines,RB44,140.5
+Tua Tagovailoa,QB16,140.5
+Green Bay Packers DST,DST8,142.5
+Skyy Moore,WR52,142.8
+Julio Jones,WR53,143.8
+Raheem Mostert,RB45,144.8
+Russell Gage,WR54,145.5
+Kenneth Gainwell,RB46,146.8
+DJ Chark Jr.,WR55,147.5
+Justin Fields,QB17,148.0
+Los Angeles Chargers DST,DST9,148.8
+Marquez Valdes-Scantling,WR56,148.8
+Matt Prater,K7,151.0
+Brian Robinson Jr.,RB47,153.8
+Trevor Lawrence,QB18,155.0
+Tyler Higbee,TE15,155.3
+Jarvis Landry,WR57,157.3
+Baltimore Ravens DST,DST10,159.8
+DeVante Parker,WR58,161.5
+David Njoku,TE16,161.8
+Jakobi Meyers,WR59,162.3
+Noah Fant,TE17,164.3
+J.D. McKissic,RB48,165.3
+New England Patriots DST,DST11,166.0
+Jameis Winston,QB19,166.3
+Younghoe Koo,K8,166.5
+Mecole Hardman Jr.,WR60,168.8
+Denver Broncos DST,DST12,169.0
+Miami Dolphins DST,DST13,169.3
+Albert Okwuegbunam Jr.,TE18,169.3
+Jamaal Williams,RB49,170.0
+Nick Folk,K9,172.0
+Matt Ryan,QB20,172.3
+Brandon McManus,K10,173.8
+Jahan Dotson,WR61,174.8
+Pittsburgh Steelers DST,DST14,174.8
+Irv Smith Jr.,TE19,175.8
+Romeo Doubs,WR62,176.3
+Isaiah McKenzie,WR63,176.3
+Robert Tonyan,TE20,177.8
+Ryan Succop,K11,179.0
+Mark Ingram II,RB50,179.0
+Khalil Herbert,RB51,181.3
+Ryan Tannehill,QB21,185.3
+Tyler Allgeier,RB52,186.3
+Rondale Moore,WR64,186.3
+Mac Jones,QB22,188.0
+Gerald Everett,TE21,189.3
+Rachaad White,RB53,193.0
+Evan Engram,TE22,193.8
+Deshaun Watson,QB23,194.5
+Baker Mayfield,QB24,195.3
+Philadelphia Eagles DST,DST15,197.3
+Cleveland Browns DST,DST16,198.0
+Zamir White,RB54,201.3
+Robbie Gould,K12,201.3
+Odell Beckham Jr.,WR65,202.0
+Joshua Palmer,WR66,202.3
+Isiah Pacheco,RB55,178.0
+Hayden Hurst,TE23,206.0
+Kansas City Chiefs DST,DST17,183.3
+Robbie Chosen,WR67,208.5
+Austin Hooper,TE24,209.0
+Jalen Tolbert,WR68,210.3
+Kenny Golladay,WR69,210.5
+Christian Watson,WR70,188.3
+Marvin Jones Jr.,WR71,212.3
+Wil Lutz,K13,212.3
+Ronald Jones II,RB56,191.0
+Nico Collins,WR72,213.8
+Daniel Jones,QB25,213.8
+Rodrigo Blankenship,K14,214.5
+Jared Goff,QB26,214.8
+Chuba Hubbard,RB57,193.0
+Taysom Hill,TE25,216.5
+Greg Joseph,K15,195.3
+Sammy Watkins,WR73,217.0
+Isaiah Spiller,RB58,199.7
+Cincinnati Bengals DST,DST18,220.5
+Kenyan Drake,RB59,221.3
+Chris Boswell,K16,202.7
+Jameson Williams,WR74,202.7
+Kenny Pickett,QB27,225.3
+Mason Crosby,K17,170.5
+Carson Wentz,QB28,208.3
+Logan Thomas,TE26,208.3
+Alec Pierce,WR75,211.3
+Jerick McKinnon,RB60,216.3
+Van Jefferson,WR76,217.3
+Jake Elliott,K18,218.0
+Marlon Mack,RB61,187.5
+D'Onta Foreman,RB62,219.0
+Marcus Mariota,QB29,235.5
+Isaiah Likely,TE27,221.0
+Darrel Williams,RB63,191.5
+Tennessee Titans DST,DST19,222.0
+Minnesota Vikings DST,DST20,224.0
+Wan'Dale Robinson,WR77,224.7
+Zach Wilson,QB30,239.0
+K.J. Osborn,WR78,226.7
+Myles Gaskin,RB64,200.0
+Washington Commanders DST,DST21,231.7
+Cade York,K19,234.0
+Rex Burkhead,RB65,234.3
+Corey Davis,WR79,211.5
+Tyrion Davis-Price,RB66,211.5
+Parris Campbell,WR80,212.0
+A.J. Green,WR81,212.0
+Graham Gano,K20,214.5
+Kyle Rudolph,TE28,237.7
+Dustin Hopkins,K21,217.0
+Cameron Brate,TE29,240.0
+Jeff Wilson Jr.,RB67,167.0
+Randall Cobb,WR82,224.5
+Eno Benjamin,RB68,225.0
+Dontrell Hilliard,RB69,226.0
+Mitchell Trubisky,QB31,244.3
+Mike Davis,RB70,177.0
+KJ Hamler,WR83,229.0
+Arizona Cardinals DST,DST22,233.5
+Kendrick Bourne,WR84,235.0
+Randy Bullock,K22,197.0
+Sony Michel,RB71,240.0
+Donovan Peoples-Jones,WR85,253.7
+Ameer Abdullah,RB72,242.5
+Matt Breida,RB73,205.0
+David Bell,WR86,243.0
+Las Vegas Raiders DST,DST23,207.0
+Jason Sanders,K23,244.0
+Austin Seibert,K24,208.0
+Gus Edwards,RB74,247.0
+Chicago Bears DST,DST24,247.5
+C.J. Uzomah,TE30,215.0
+Samaje Perine,RB75,249.5
+Davis Mills,QB32,250.0
+Jordan Mason,RB76,220.0
+Hassan Haskins,RB77,250.5
+Carolina Panthers DST,DST25,251.0
+Brevin Jordan,TE31,223.0
+Jamison Crowder,WR87,253.5
+Curtis Samuel,WR88,263.3
+Cairo Santos,K25,230.0
+Ke'Shawn Vaughn,RB78,230.0
+Damien Williams,RB79,231.0
+Zack Moss,RB80,256.5
+Jimmy Garoppolo,QB33,233.0
+Brett Maher,K26,238.0
+Boston Scott,RB81,262.0
+D'Ernest Johnson,RB82,266.5
+Jason Myers,K27,244.0
+Joshua Kelley,RB83,244.0
+DeAndre Torrey,RB84,247.0
+Mo Alie-Cox,TE32,248.0
+Jake Powell,TE33,248.0
+Anthony Johnson,DT1,249.0
+Tyler Conklin,TE34,250.0
+Collin Hill,QB34,250.0
+Chad Muma,LB1,251.0
+Ben Johnson,OT1,252.0
+Braxton Berrios,WR89,252.0
+Kyle Juszczyk,RB85,253.0
+Austin Walter,RB86,253.0
+Zay Jones,WR90,254.0
+Kayvon Thibodeaux,DE1,254.0
+Karan Higdon,RB87,255.0
+Marquez Callaway,WR91,268.0
+Seattle Seahawks DST,DST26,256.0
+Jordan Johnson,RB88,256.0
+Stephen Baggett,TE35,257.0
+Alex Barnes,RB89,258.0
+Jaylen Warren,RB90,258.0
+Detroit Lions DST,DST27,259.0
+Zach Olstad,RB91,259.0
+Temarrick Hemingway,TE36,260.0
+Jerome Washington,TE37,261.0
+New York Giants DST,DST28,262.0
+Stephon Robinson Jr.,WR92,262.0
+Nick Bawden,RB92,263.0
+Michael Jacobson,TE38,264.0
+Jamel Johnson,WR93,265.0
+Sterling Shepard,WR94,281.5
+Brandon Barnes,TE39,266.0
+Drew Anderson,QB35,267.0
+Zach Conque,QB36,268.0
+Bobby Wagner,LB2,269.0
+Kendrick Rogers,WR95,270.0
+Taywan Taylor,WR96,271.0
+New York Jets DST,DST29,272.0
+Kyle Lewis,WR97,272.0
+Ryan Davis,DE2,273.0
+Jonnu Smith,TE40,273.0
+Papi White,WR98,274.0
+Laviska Shenault Jr.,WR99,275.0
+Houston Texans DST,DST30,276.0
+Krishawn Hogan,WR100,276.0
+Brogan Roback,QB37,277.0
+Cedrick Wilson Jr.,WR101,278.0
+Cole Hunt,TE41,278.0
+David Watford,WR102,279.0
+Chris Evans,RB93,280.0
+Zaire Mitchell-Paden,TE42,280.0
+Brandon Bolden,RB94,281.0
+Josh Smith,WR103,281.0
+Nelson Agholor,WR104,283.0
+Foster Moreau,TE43,284.0
+Quez Watkins,WR105,287.0
+J.J. Taylor,RB95,288.0
+Byron Pringle,WR106,289.0
+Jacksonville Jaguars DST,DST31,290.0
+Drew Lock,QB38,291.0
+Jauan Jennings,WR107,293.0
+DeeJay Dallas,RB96,294.0
+Ka'imi Fairbairn,K28,295.0
+Trey Sermon,RB97,296.0
+Malik Willis,QB39,297.0
+Joey Slye,K29,299.0
+O.J. Howard,TE44,300.0
