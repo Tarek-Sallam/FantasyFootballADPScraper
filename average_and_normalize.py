@@ -27,4 +27,4 @@ for pos, value in adp_by_pos.items():
     all_adp[pos] = value['adp'].to_numpy()
     normalized_adp[pos] = all_adp[pos] / all_adp[pos].size
     
-np.save(os.path.join(os.getcwd(), 'cleaned_data', 'adp_data.npy'), normalized_adp)
+np.save(os.path.join(os.getcwd(), 'cleaned_data', 'adp_data.npy'), normalized_adp, allow_pickle=True)
